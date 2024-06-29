@@ -2,10 +2,8 @@
     display: grid;
     grid-template-columns: 1fr min-content 1fr; 
     column-gap: 40px;
-    padding: 180px 24px 32px;
-    margin-bottom: 120px;
+    padding: 235px 24px 95px;
     font-size: 18px;
-    font-family: Inter, Arial, sans-serif;
 }
 
 .header__menu{    
@@ -43,6 +41,8 @@
     align-self: center;
     width: 260px;
     font-size: 20px;
+    margin-left: 28px;
+    margin-right: 10px;
 }
 
 .overlay{
@@ -62,7 +62,6 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    font-family: Inter, Arial, sans-serif; 
 }
 
 .cover__title{
@@ -127,7 +126,6 @@
 .lots{
     margin: 0;
     padding: 180px 24px 0;
-    font-family: Inter, Arial, sans-serif; 
 }
 
 .lots__heading{
@@ -247,7 +245,7 @@
 }
 
 .about__text{
-    padding-top: 30px;
+    padding-top: 23px;
     font-size: 20px;
     line-height: 24px;
 }
@@ -280,6 +278,6 @@
 .footer__social-icon{
     width: 48px;
     height: 48px;
-    margin: 20px;
+    margin: 0 22px;
     letter-spacing: 0.85em;
 }

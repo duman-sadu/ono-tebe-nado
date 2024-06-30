@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 1fr min-content 1fr; 
     column-gap: 40px;
-    padding: 235px 24px 95px;
+    padding: 93px 24px;
     font-size: 18px;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .header__logo{   
-    width: 148px;
+    width: 136px;
     height: 105px;    
 }
 
@@ -39,7 +39,7 @@
 .address{
     font-style: normal;
     align-self: center;
-    width: 260px;
+    max-width: 260px;
     font-size: 20px;
     margin-left: 28px;
     margin-right: 10px;
